@@ -49,7 +49,7 @@ function pageChange() {
 }
 
 function autoChange(){
-    interval=setInterval(nextPage,3000);
+    interval=setInterval(nextPage,2000);
 }
 
 function nextPage() {
